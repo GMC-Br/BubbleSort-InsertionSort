@@ -1,4 +1,4 @@
-/*                                Insertion Sort em C                                    */
+/*                                Insertion Sort em c++                                    */
 
 
 #include <iostream>
